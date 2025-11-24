@@ -1,13 +1,13 @@
-# Tailwind CSS mini-workshop
+# Tailwind and Vanilal CSS Examples
 
 Šis repo satur piemērus mini-workshopam par Tailwind CSS.
 
-## Struktūra
+## Structure
 
 - `vanilla/` – landing lapa ar klasisko CSS (`index.html` + `styles.css`).
 - `tailwind/` – tā pati ideja, uzbūvēta ar Tailwind CSS un React (Vite).
 
-## Priekšnosacījumi
+## Dependences
 
 - Node.js (>= 18)
 - NPM vai Yarn
@@ -29,5 +29,10 @@ TailwindCSS Config Inicialization `/project_name`
 ```bash
 npx tailwindcss init -p
 ```
+
+## To Learn TailwindCSS
+
+- [TailwindCSS Documentation](https://tailwindcss.com/docs)
+- [Official TailwindCSS Cource](https://tailwindcss.com/course)
 
 ---
