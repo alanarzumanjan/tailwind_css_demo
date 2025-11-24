@@ -33,6 +33,7 @@ npx tailwindcss init -p
 ## To Learn TailwindCSS
 
 - [TailwindCSS Documentation](https://tailwindcss.com/docs)
-- [Official TailwindCSS Cource](https://tailwindcss.com/course)
+- [Official Cource](https://tailwindcss.com/course)
+- [YouTube Course](https://youtu.be/6biMWgD6_JY?si=ArLj8-8Lot1OrhfK)
 
 ---
