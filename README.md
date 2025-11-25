@@ -1,4 +1,4 @@
-# Tailwind and Vanilal CSS Examples
+# Tailwind and Vanila CSS Examples
 
 Šis repo satur piemērus mini-workshopam par Tailwind CSS.
 
